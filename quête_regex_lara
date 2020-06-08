@@ -19,4 +19,4 @@
 ### 5. Trouve l'expression régulière qui correspond à l'url de la fiche du fils sur IMDB
 ### https://www.imdb.com/title/tt0133093 (attention à ne pas sélectionner les parenthèses).
 
-[a-z]{5}\://[a-z]{3}\.[a-z]{4}\.[a-z]{3}\/[a-z]{5}\/[a-z]{2}[0-9]{7}
+[a-z]{5}\:\/\/{3}[a-z]{3}\.[a-z]{4}\.[a-z]{3}\/[a-z]{5}\/[a-z]{2}[0-9]{7}
